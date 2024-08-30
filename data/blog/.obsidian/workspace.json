@@ -1,0 +1,167 @@
+{
+  "main": {
+    "id": "b5de63aa1ad5f928",
+    "type": "split",
+    "children": [
+      {
+        "id": "838dd8428deb78b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7de125df9c547f34",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "deriving-ols-estimator.mdx",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6662a00bfe92a401",
+    "type": "split",
+    "children": [
+      {
+        "id": "33ebebb36115e5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a844e91ac616a46b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a0c0cfb504f78662",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "72b45fef88300909",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "15f384f8a9ba5022",
+    "type": "split",
+    "children": [
+      {
+        "id": "acebd845a7a72f42",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55f1bfff67391444",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "deriving-ols-estimator.mdx",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6538cf73e1394396",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "deriving-ols-estimator.mdx",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "70c7bbc21eb01253",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "98ce7318bdf3a394",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "deriving-ols-estimator.mdx"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "github-sync:Sync with Remote": false,
+      "edit-mdx:New .mdx file": false
+    }
+  },
+  "active": "7de125df9c547f34",
+  "lastOpenFiles": [
+    "code-sample.mdx",
+    "deriving-ols-estimator.mdx",
+    "nested-route/introducing-multi-part-posts-with-nested-routing.mdx",
+    "introducing-tailwind-nextjs-starter-blog.mdx",
+    "guide-to-using-images-in-nextjs.mdx",
+    "github-markdown-guide.mdx",
+    "my-fancy-title.mdx",
+    "new-features-in-v1.mdx",
+    "pictures-of-canada.mdx",
+    "release-of-tailwind-nextjs-starter-blog-v2.0.mdx",
+    "the-time-machine.mdx",
+    "Untitled.md",
+    "Untitled 1.md"
+  ]
+}
