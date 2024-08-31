@@ -1,0 +1,13 @@
+{
+  "attachmentFolderPath": "public/static/images",
+  "userIgnoreFilters": [
+    "node_modules/",
+    "css/",
+    "next_blog/",
+    "faq/",
+    "components/",
+    "layouts/",
+    "out/",
+    "scripts/"
+  ]
+}
