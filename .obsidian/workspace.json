@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/blog/2release-of-tailwind-nextjs-starter-blog-v2.0.mdx",
+                "file": "data/blog/This is a copied post from Obsidian.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "data/blog/2release-of-tailwind-nextjs-starter-blog-v2.0.mdx",
+                "file": "data/blog/This is a copied post from Obsidian.mdx",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "data/blog/2release-of-tailwind-nextjs-starter-blog-v2.0.mdx",
+                "file": "data/blog/This is a copied post from Obsidian.mdx",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "data/blog/2release-of-tailwind-nextjs-starter-blog-v2.0.mdx"
+                "file": "data/blog/This is a copied post from Obsidian.mdx"
               }
             }
           }
@@ -150,6 +150,8 @@
   },
   "active": "8777f632f008b269",
   "lastOpenFiles": [
+    "data/blog/2release-of-tailwind-nextjs-starter-blog-v2.0.mdx",
+    "data/blog/This is a copied post from Obsidian.mdx",
     "data/blog/code-sample.mdx",
     "README.md"
   ]
