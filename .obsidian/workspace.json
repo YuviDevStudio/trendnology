@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a8f4021d56f9d563",
+        "id": "becc6a9387e21957",
         "type": "tabs",
         "children": [
           {
-            "id": "8777f632f008b269",
+            "id": "f01858c84990053f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "data/blog/This is a copied post from Obsidian.mdx",
+                "file": "data/blog/2release-of-tailwind-nextjs-starter-blog-v2.0.mdx",
                 "mode": "source",
                 "source": false
               }
@@ -80,35 +80,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "904dfc9d6cc54470",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "data/blog/This is a copied post from Obsidian.mdx",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "d5fa94b063047f26",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "data/blog/This is a copied post from Obsidian.mdx",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "a39b56a7749f17bf",
             "type": "leaf",
             "state": {
@@ -120,21 +91,20 @@
             }
           },
           {
-            "id": "7b579d52b5fe464d",
+            "id": "f1b50f335886ac14",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "file": "data/blog/This is a copied post from Obsidian.mdx"
-              }
+              "type": "SC-custom-variables-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,10 +119,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "7b579d52b5fe464d",
+  "active": "f1b50f335886ac14",
   "lastOpenFiles": [
-    "data/blog/2release-of-tailwind-nextjs-starter-blog-v2.0.mdx",
+    "Untitled.canvas",
     "data/blog/This is a copied post from Obsidian.mdx",
+    "data/blog/2release-of-tailwind-nextjs-starter-blog-v2.0.mdx",
     "data/blog/code-sample.mdx",
     "README.md"
   ]

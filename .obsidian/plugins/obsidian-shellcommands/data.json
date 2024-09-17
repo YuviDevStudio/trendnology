@@ -24,9 +24,9 @@
   "max_visible_lines_in_shell_command_fields": false,
   "shell_commands": [
     {
-      "id": "7oupwhm3xg",
+      "id": "etbr32jq4w",
       "platform_specific_commands": {
-        "default": "git push --set-upstream origin master"
+        "default": "git add .\ngit commit -m 'from obsidian'\ngit push -u origin master"
       },
       "shells": {},
       "alias": "",
