@@ -24,9 +24,9 @@
   "max_visible_lines_in_shell_command_fields": false,
   "shell_commands": [
     {
-      "id": "fiz4whteyr",
+      "id": "7oupwhm3xg",
       "platform_specific_commands": {
-        "default": "git add ."
+        "default": "git push --set-upstream origin master"
       },
       "shells": {},
       "alias": "",
