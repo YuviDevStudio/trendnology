@@ -129,12 +129,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -145,10 +145,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "edit-mdx:New .mdx file": false
+      "edit-mdx:New .mdx file": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "8777f632f008b269",
+  "active": "7b579d52b5fe464d",
   "lastOpenFiles": [
     "data/blog/2release-of-tailwind-nextjs-starter-blog-v2.0.mdx",
     "data/blog/This is a copied post from Obsidian.mdx",

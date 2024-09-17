@@ -7,9 +7,6 @@ import ThemeSwitch from './ThemeSwitch'
 import SearchButton from './SearchButton'
 
 const Header = () => {
-
-  const []
-
   return (
     <header className="flex items-center justify-between py-10">
       <div>
